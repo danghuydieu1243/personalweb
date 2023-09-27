@@ -40,7 +40,7 @@ body {
 }
 .home{
     height: 100vh;
-    background: url("home.jpg") no-repeat;
+    background: url("home1.jpg") no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -51,12 +51,12 @@ body {
     max-width: 600px;
 }
 .home-content h1{
-    font-size: 46px;
+    font-size: 35px;
     font-weight: 700;
     line-height: 1.2;
 }
 .home-content h3{
-    font-size: 32px;
+    font-size: 28px;
     font-weight: 700;
     color:#00abf0;
 }
